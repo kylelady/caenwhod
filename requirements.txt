@@ -1,1 +1,6 @@
+Fabric==1.8.0
+ipython==1.1.0
+jsocket==1.5
+paramiko==1.11.1
+pycrypto==2.6
 wsgiref==0.1.2
